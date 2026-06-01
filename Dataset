@@ -1,0 +1,6 @@
+import kagglehub
+
+# Download latest version
+df = kagglehub.dataset_download("blastchar/telco-customer-churn")
+
+print("Path to dataset files:", path)
