@@ -1,0 +1,30 @@
+# Data Manipulation
+numpy==2.2.6
+pandas==2.3.0
+
+# Data Visualization
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.7.0
+
+# Deep Learning
+tensorflow==2.19.0
+keras==3.10.0
+
+# Jupyter Notebook
+jupyter==1.1.1
+notebook==7.4.3
+ipykernel==6.29.5
+
+# Model Saving
+joblib==1.5.1
+
+# Dashboard (Optional - if deploying with Streamlit)
+streamlit==1.45.1
+
+# Power BI (No Python package required)
+
+# Utilities
+scipy==1.15.3
